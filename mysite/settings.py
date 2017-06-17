@@ -25,7 +25,7 @@ SECRET_KEY = '*=!_4m!6ta84jzdm_!yf(1z5yw+l6#kglrgu&--+np9na457ub'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', '<your_username>.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'djangokate.pythonanywhere.com']
 
 
 # Application definition
